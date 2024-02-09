@@ -1,0 +1,30 @@
+output-base-1-synthetic.csv:LSVI-UCB (Baseline)
+output-adaptive-1.csv:Alt-Adaptive, m=10, tau_c=0.01, budget=K^{0.5}
+output-adaptive-2.csv:Alt-Adaptive, m=20, tau_c=0.01, budget=K^{0.5}
+output-adaptive-3.csv:Alt-Adaptive, m=30, tau_c=0.01, budget=K^{0.5}
+output-adaptive-4.csv:Alt-Adaptive, m=50, tau_c=0.01, budget=K^{0.5}
+output-adaptive-5.csv:Alt-Adaptive, m=10, tau_c=0.1, budget=K^{0.5}
+output-adaptive-6.csv:Alt-Adaptive, m=20, tau_c=0.1, budget=K^{0.5}
+output-adaptive-7.csv:Alt-Adaptive, m=30, tau_c=0.1, budget=K^{0.5}
+output-adaptive-8.csv:Alt-Adaptive, m=50, tau_c=0.1, budget=K^{0.5}
+output-adaptive-9.csv:Alt-Adaptive, m=10, tau_c=1, budget=K^{0.5}
+output-adaptive-10.csv:Alt-Adaptive, m=20, tau_c=1, budget=K^{0.5}
+output-adaptive-11.csv:Alt-Adaptive, m=30, tau_c=1, budget=K^{0.5}
+output-adaptive-12.csv:Alt-Adaptive, m=50, tau_c=1, budget=K^{0.5}
+output-adaptive-13.csv:Alt-Adaptive, m=10, tau_c=0.01, budget=K^{0.75}
+output-adaptive-14.csv:Alt-Adaptive, m=20, tau_c=0.01, budget=K^{0.75}
+output-adaptive-15.csv:Alt-Adaptive, m=30, tau_c=0.01, budget=K^{0.75}
+output-adaptive-16.csv:Alt-Adaptive, m=50, tau_c=0.01, budget=K^{0.75}
+output-adaptive-17.csv:Alt-Adaptive, m=10, tau_c=0.1, budget=K^{0.75}
+output-adaptive-18.csv:Alt-Adaptive, m=20, tau_c=0.1, budget=K^{0.75}
+output-adaptive-19.csv:Alt-Adaptive, m=30, tau_c=0.1, budget=K^{0.75}
+output-adaptive-20.csv:Alt-Adaptive, m=50, tau_c=0.1, budget=K^{0.75}
+output-adaptive-21.csv:Alt-Adaptive, m=10, tau_c=1, budget=K^{0.75}
+output-adaptive-22.csv:Alt-Adaptive, m=20, tau_c=1, budget=K^{0.75}
+output-adaptive-23.csv:Alt-Adaptive, m=30, tau_c=1, budget=K^{0.75}
+output-adaptive-24.csv:Alt-Adaptive, m=50, tau_c=1, budget=K^{0.75}
+output-fixed-1.csv:Alt-Fixed, learn-iters-base=K^{0.5}
+output-fixed-2.csv:Alt-Fixed, learn-iters-base=K^{0.55}
+output-fixed-3.csv:Alt-Fixed, learn-iters-base=K^{0.6}
+output-fixed-4.csv:Alt-Fixed, learn-iters-base=K^{0.65}
+output-sketched-1.csv:LSVI-UCB with linear sketch, sketch-dim=50

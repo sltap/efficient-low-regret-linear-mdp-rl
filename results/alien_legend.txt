@@ -1,0 +1,1 @@
+output-fixed-1-aliendataset.csv:LSVI-UCB-Alt-Fixed, learn-iters-base=K^{0.5}
